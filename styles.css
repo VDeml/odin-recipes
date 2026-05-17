@@ -1,0 +1,20 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+.aligned {
+    display: inline-block;
+    text-align: left;
+}
+
+.box {
+    border: 5px solid rgb(220, 241, 207);
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(249, 255, 223);
+}
